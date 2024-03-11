@@ -1,0 +1,9 @@
+############# CREATE VENV ENV #############
+
+1. Terminal: 
+	>> python -m venv ./minipro_sql_venv <<
+
+2. Install libraries
+- >> python -m pip install --upgrade pip <<
+- >> python -m pip install  pip-tools  jupyter  ipykernel <<
+- >> python -m ipykernel install --user --name=minipro_sql_venv <<
