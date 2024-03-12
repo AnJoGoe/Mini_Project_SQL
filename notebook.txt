@@ -9,3 +9,4 @@
 	>> python -m ipykernel install --user --name=minipro_sql_venv <<
 	>> python install pandas numpy matplotlib seaborn <<
 	>> pip install ucimlrepo <<
+	>> pip install chembl_webresource_client <<
