@@ -1,0 +1,863 @@
+,case_id,primary_diagnosis
+0,TCGA-DU-8164,"Oligodendroglioma, NOS"
+1,TCGA-QH-A6CY,Mixed glioma
+2,TCGA-HW-A5KM,"Astrocytoma, NOS"
+3,TCGA-E1-A7YE,"Astrocytoma, anaplastic"
+4,TCGA-S9-A6WG,"Astrocytoma, anaplastic"
+5,TCGA-DB-A4X9,Mixed glioma
+6,TCGA-P5-A5F4,"Oligodendroglioma, anaplastic"
+7,TCGA-FG-A4MY,Mixed glioma
+8,TCGA-HT-A5R5,"Oligodendroglioma, NOS"
+9,TCGA-DU-A76K,"Oligodendroglioma, NOS"
+10,TCGA-QH-A6CV,Mixed glioma
+11,TCGA-FG-5962,"Oligodendroglioma, anaplastic"
+12,TCGA-DU-6402,"Astrocytoma, anaplastic"
+13,TCGA-DB-A75M,"Astrocytoma, NOS"
+14,TCGA-DB-A4XG,"Oligodendroglioma, anaplastic"
+15,TCGA-DU-5851,Mixed glioma
+16,TCGA-DB-A4XH,Mixed glioma
+17,TCGA-HT-7874,"Oligodendroglioma, anaplastic"
+18,TCGA-DH-A66D,"Astrocytoma, anaplastic"
+19,TCGA-DU-5871,Mixed glioma
+20,TCGA-FG-A60J,Mixed glioma
+21,TCGA-E1-A7Z3,"Astrocytoma, NOS"
+22,TCGA-DU-7011,Mixed glioma
+23,TCGA-VW-A8FI,"Astrocytoma, anaplastic"
+24,TCGA-DU-A7TB,"Oligodendroglioma, NOS"
+25,TCGA-HT-7856,"Oligodendroglioma, anaplastic"
+26,TCGA-TQ-A7RU,"Oligodendroglioma, NOS"
+27,TCGA-HW-7486,"Oligodendroglioma, NOS"
+28,TCGA-DU-6399,"Oligodendroglioma, NOS"
+29,TCGA-DU-A7TA,"Oligodendroglioma, NOS"
+30,TCGA-HT-A5RA,"Astrocytoma, anaplastic"
+31,TCGA-DB-5280,Mixed glioma
+32,TCGA-DU-6405,"Astrocytoma, anaplastic"
+33,TCGA-S9-A7J1,"Oligodendroglioma, NOS"
+34,TCGA-S9-A7J2,"Oligodendroglioma, anaplastic"
+35,TCGA-HW-7495,"Oligodendroglioma, NOS"
+36,TCGA-FG-A710,"Oligodendroglioma, NOS"
+37,TCGA-P5-A5ET,"Oligodendroglioma, NOS"
+38,TCGA-DU-7300,"Oligodendroglioma, anaplastic"
+39,TCGA-DU-A5TY,"Astrocytoma, anaplastic"
+40,TCGA-VM-A8CH,"Astrocytoma, NOS"
+41,TCGA-R8-A6YH,--
+42,TCGA-S9-A6WE,"Oligodendroglioma, NOS"
+43,TCGA-HT-7681,Mixed glioma
+44,TCGA-KT-A7W1,"Astrocytoma, anaplastic"
+45,TCGA-FG-5964,"Oligodendroglioma, NOS"
+46,TCGA-S9-A6TX,"Oligodendroglioma, anaplastic"
+47,TCGA-P5-A5F2,"Astrocytoma, NOS"
+48,TCGA-DU-5874,"Oligodendroglioma, NOS"
+49,TCGA-DU-A5TT,"Oligodendroglioma, anaplastic"
+50,TCGA-CS-5396,"Oligodendroglioma, anaplastic"
+51,TCGA-DU-7302,"Oligodendroglioma, anaplastic"
+52,TCGA-S9-A6TW,"Oligodendroglioma, anaplastic"
+53,TCGA-RY-A845,Mixed glioma
+54,TCGA-HT-A61A,"Oligodendroglioma, NOS"
+55,TCGA-DU-7018,"Oligodendroglioma, anaplastic"
+56,TCGA-HW-7489,Mixed glioma
+57,TCGA-R8-A6ML,"Oligodendroglioma, anaplastic"
+58,TCGA-DH-5144,"Oligodendroglioma, anaplastic"
+59,TCGA-DU-7013,"Astrocytoma, anaplastic"
+60,TCGA-CS-4941,"Astrocytoma, anaplastic"
+61,TCGA-WY-A85E,Mixed glioma
+62,TCGA-DH-A7UR,"Oligodendroglioma, anaplastic"
+63,TCGA-HT-7689,"Oligodendroglioma, NOS"
+64,TCGA-S9-A7R7,"Astrocytoma, NOS"
+65,TCGA-HT-A619,"Oligodendroglioma, anaplastic"
+66,TCGA-DU-7012,"Astrocytoma, anaplastic"
+67,TCGA-S9-A6UB,"Oligodendroglioma, NOS"
+68,TCGA-DB-5281,Mixed glioma
+69,TCGA-QH-A6CX,"Astrocytoma, NOS"
+70,TCGA-E1-5318,"Oligodendroglioma, NOS"
+71,TCGA-CS-6290,"Astrocytoma, anaplastic"
+72,TCGA-S9-A6U2,"Oligodendroglioma, NOS"
+73,TCGA-HT-A74J,Mixed glioma
+74,TCGA-WY-A859,"Astrocytoma, NOS"
+75,TCGA-HT-A5RB,"Astrocytoma, NOS"
+76,TCGA-DU-8168,"Oligodendroglioma, anaplastic"
+77,TCGA-QH-A6X3,Mixed glioma
+78,TCGA-DU-5853,Mixed glioma
+79,TCGA-CS-6667,"Astrocytoma, NOS"
+80,TCGA-S9-A89V,"Astrocytoma, anaplastic"
+81,TCGA-HT-8012,"Oligodendroglioma, NOS"
+82,TCGA-S9-A7IY,Mixed glioma
+83,TCGA-TQ-A7RS,"Oligodendroglioma, NOS"
+84,TCGA-QH-A6XC,"Astrocytoma, anaplastic"
+85,TCGA-CS-6668,"Oligodendroglioma, NOS"
+86,TCGA-DB-5277,"Astrocytoma, anaplastic"
+87,TCGA-CS-6186,Mixed glioma
+88,TCGA-HT-A4DS,"Astrocytoma, anaplastic"
+89,TCGA-DU-8165,"Oligodendroglioma, NOS"
+90,TCGA-HT-7605,"Oligodendroglioma, NOS"
+91,TCGA-DU-6410,"Oligodendroglioma, anaplastic"
+92,TCGA-RY-A83Z,"Astrocytoma, anaplastic"
+93,TCGA-HW-8321,"Astrocytoma, NOS"
+94,TCGA-S9-A7QW,"Astrocytoma, anaplastic"
+95,TCGA-S9-A6WL,"Astrocytoma, anaplastic"
+96,TCGA-DU-A5TW,"Astrocytoma, anaplastic"
+97,TCGA-HW-A5KL,"Astrocytoma, NOS"
+98,TCGA-WY-A85A,"Astrocytoma, NOS"
+99,TCGA-P5-A72Z,"Oligodendroglioma, anaplastic"
+100,TCGA-DU-8163,Mixed glioma
+101,TCGA-DB-5275,Mixed glioma
+102,TCGA-FG-8187,Mixed glioma
+103,TCGA-P5-A5EU,"Astrocytoma, anaplastic"
+104,TCGA-HT-7478,"Astrocytoma, NOS"
+105,TCGA-QH-A65S,Mixed glioma
+106,TCGA-HT-7881,"Oligodendroglioma, NOS"
+107,TCGA-TQ-A7RO,Mixed glioma
+108,TCGA-FG-8188,Mixed glioma
+109,TCGA-FG-8182,"Oligodendroglioma, NOS"
+110,TCGA-HT-A5R7,"Astrocytoma, anaplastic"
+111,TCGA-DB-5276,Mixed glioma
+112,TCGA-HT-8113,"Oligodendroglioma, NOS"
+113,TCGA-S9-A7R2,"Astrocytoma, anaplastic"
+114,TCGA-HT-7483,Mixed glioma
+115,TCGA-S9-A7IS,"Astrocytoma, anaplastic"
+116,TCGA-QH-A6X4,Mixed glioma
+117,TCGA-DU-A5TP,"Astrocytoma, anaplastic"
+118,TCGA-FG-6692,"Oligodendroglioma, anaplastic"
+119,TCGA-HT-A74H,"Astrocytoma, anaplastic"
+120,TCGA-DU-A6S2,"Oligodendroglioma, NOS"
+121,TCGA-DU-6394,"Oligodendroglioma, anaplastic"
+122,TCGA-R8-A6MO,"Oligodendroglioma, NOS"
+123,TCGA-S9-A7IQ,Mixed glioma
+124,TCGA-FG-8189,"Oligodendroglioma, NOS"
+125,TCGA-FG-A70Z,Mixed glioma
+126,TCGA-HT-7474,Mixed glioma
+127,TCGA-HT-8010,"Oligodendroglioma, NOS"
+128,TCGA-P5-A72U,"Oligodendroglioma, anaplastic"
+129,TCGA-HT-8018,Mixed glioma
+130,TCGA-HW-8320,"Astrocytoma, anaplastic"
+131,TCGA-DU-6542,Mixed glioma
+132,TCGA-E1-A7YN,"Astrocytoma, anaplastic"
+133,TCGA-CS-5394,"Astrocytoma, anaplastic"
+134,TCGA-FG-A4MX,"Astrocytoma, NOS"
+135,TCGA-S9-A6WH,Mixed glioma
+136,TCGA-WY-A85B,"Astrocytoma, NOS"
+137,TCGA-S9-A7IZ,"Astrocytoma, anaplastic"
+138,TCGA-S9-A7QZ,"Oligodendroglioma, NOS"
+139,TCGA-DB-A75L,"Astrocytoma, anaplastic"
+140,TCGA-E1-A7YO,"Oligodendroglioma, anaplastic"
+141,TCGA-P5-A5EZ,"Astrocytoma, anaplastic"
+142,TCGA-S9-A7R8,"Astrocytoma, anaplastic"
+143,TCGA-E1-A7YY,"Oligodendroglioma, NOS"
+144,TCGA-HT-7604,"Astrocytoma, NOS"
+145,TCGA-E1-5304,"Astrocytoma, anaplastic"
+146,TCGA-S9-A89Z,"Astrocytoma, anaplastic"
+147,TCGA-E1-5307,"Astrocytoma, anaplastic"
+148,TCGA-FG-A711,"Oligodendroglioma, NOS"
+149,TCGA-TM-A84R,"Oligodendroglioma, NOS"
+150,TCGA-HW-7490,"Astrocytoma, NOS"
+151,TCGA-HT-8564,"Astrocytoma, anaplastic"
+152,TCGA-HT-7875,"Oligodendroglioma, NOS"
+153,TCGA-DH-5140,Mixed glioma
+154,TCGA-WY-A85D,Mixed glioma
+155,TCGA-TQ-A7RK,"Oligodendroglioma, NOS"
+156,TCGA-FG-6688,"Astrocytoma, anaplastic"
+157,TCGA-HT-7479,"Astrocytoma, anaplastic"
+158,TCGA-DU-8167,Mixed glioma
+159,TCGA-E1-A7YM,"Astrocytoma, anaplastic"
+160,TCGA-QH-A6CW,Mixed glioma
+161,TCGA-DU-8162,Mixed glioma
+162,TCGA-P5-A5EV,"Astrocytoma, NOS"
+163,TCGA-DB-A64Q,Mixed glioma
+164,TCGA-DU-A5TR,Mixed glioma
+165,TCGA-TM-A7CF,"Astrocytoma, NOS"
+166,TCGA-FG-A6IZ,"Oligodendroglioma, NOS"
+167,TCGA-HT-7687,"Oligodendroglioma, anaplastic"
+168,TCGA-TM-A84J,"Oligodendroglioma, anaplastic"
+169,TCGA-HT-A61C,"Oligodendroglioma, anaplastic"
+170,TCGA-DU-A76R,"Oligodendroglioma, anaplastic"
+171,TCGA-HT-7481,"Oligodendroglioma, NOS"
+172,TCGA-DB-A4XB,"Astrocytoma, anaplastic"
+173,TCGA-FG-A87N,"Astrocytoma, anaplastic"
+174,TCGA-S9-A7J0,"Oligodendroglioma, anaplastic"
+175,TCGA-CS-5397,"Astrocytoma, anaplastic"
+176,TCGA-WY-A85C,"Astrocytoma, NOS"
+177,TCGA-CS-6188,"Astrocytoma, anaplastic"
+178,TCGA-HT-7690,Mixed glioma
+179,TCGA-TQ-A7RN,"Oligodendroglioma, NOS"
+180,TCGA-FG-A6J1,"Oligodendroglioma, NOS"
+181,TCGA-TM-A7C5,Mixed glioma
+182,TCGA-DU-5854,"Astrocytoma, anaplastic"
+183,TCGA-TM-A84T,Mixed glioma
+184,TCGA-DH-A669,"Oligodendroglioma, anaplastic"
+185,TCGA-FG-A4MW,Mixed glioma
+186,TCGA-E1-5302,"Astrocytoma, anaplastic"
+187,TCGA-HT-7603,"Oligodendroglioma, NOS"
+188,TCGA-S9-A6WP,Mixed glioma
+189,TCGA-HT-A4DV,"Oligodendroglioma, anaplastic"
+190,TCGA-DB-5270,Mixed glioma
+191,TCGA-E1-A7YW,Mixed glioma
+192,TCGA-DU-7009,"Oligodendroglioma, NOS"
+193,TCGA-HT-8108,"Oligodendroglioma, NOS"
+194,TCGA-DU-7306,Mixed glioma
+195,TCGA-DB-A64P,"Oligodendroglioma, anaplastic"
+196,TCGA-HT-7688,"Oligodendroglioma, anaplastic"
+197,TCGA-VM-A8CD,"Astrocytoma, anaplastic"
+198,TCGA-DB-A64X,"Astrocytoma, anaplastic"
+199,TCGA-HT-7877,"Oligodendroglioma, NOS"
+200,TCGA-DH-A66F,"Oligodendroglioma, NOS"
+201,TCGA-P5-A77W,Mixed glioma
+202,TCGA-HT-A5R9,"Oligodendroglioma, anaplastic"
+203,TCGA-E1-A7YS,"Oligodendroglioma, anaplastic"
+204,TCGA-TM-A7C3,"Astrocytoma, anaplastic"
+205,TCGA-DU-A6S7,"Astrocytoma, anaplastic"
+206,TCGA-TQ-A7RJ,Mixed glioma
+207,TCGA-RY-A843,"Astrocytoma, anaplastic"
+208,TCGA-RY-A840,"Oligodendroglioma, anaplastic"
+209,TCGA-DU-6395,Mixed glioma
+210,TCGA-FG-8191,"Oligodendroglioma, anaplastic"
+211,TCGA-HT-7606,"Astrocytoma, NOS"
+212,TCGA-HT-7857,"Astrocytoma, anaplastic"
+213,TCGA-DU-7015,"Oligodendroglioma, NOS"
+214,TCGA-HT-7609,Mixed glioma
+215,TCGA-S9-A6WI,Mixed glioma
+216,TCGA-S9-A6TZ,"Astrocytoma, NOS"
+217,TCGA-FG-6691,"Astrocytoma, NOS"
+218,TCGA-DU-6401,"Oligodendroglioma, NOS"
+219,TCGA-DB-5278,"Oligodendroglioma, NOS"
+220,TCGA-HT-8109,"Oligodendroglioma, anaplastic"
+221,TCGA-FG-A4MT,"Oligodendroglioma, NOS"
+222,TCGA-DU-7292,"Astrocytoma, anaplastic"
+223,TCGA-CS-4943,"Astrocytoma, anaplastic"
+224,TCGA-VV-A829,Mixed glioma
+225,TCGA-FN-7833,Mixed glioma
+226,TCGA-HT-7695,"Oligodendroglioma, NOS"
+227,TCGA-DB-A4XC,Mixed glioma
+228,TCGA-CS-5390,"Oligodendroglioma, NOS"
+229,TCGA-HT-7855,"Astrocytoma, anaplastic"
+230,TCGA-DU-A6S6,Mixed glioma
+231,TCGA-VM-A8CB,"Oligodendroglioma, anaplastic"
+232,TCGA-FG-A713,Mixed glioma
+233,TCGA-DH-A7US,"Oligodendroglioma, NOS"
+234,TCGA-WH-A86K,"Astrocytoma, NOS"
+235,TCGA-DU-6403,Mixed glioma
+236,TCGA-DU-5870,"Oligodendroglioma, NOS"
+237,TCGA-P5-A736,"Astrocytoma, anaplastic"
+238,TCGA-P5-A72X,"Astrocytoma, anaplastic"
+239,TCGA-HT-8011,"Astrocytoma, anaplastic"
+240,TCGA-CS-6670,"Oligodendroglioma, anaplastic"
+241,TCGA-HT-8114,Mixed glioma
+242,TCGA-FG-6690,"Oligodendroglioma, NOS"
+243,TCGA-DU-6408,"Oligodendroglioma, anaplastic"
+244,TCGA-IK-7675,"Oligodendroglioma, NOS"
+245,TCGA-TM-A84I,"Astrocytoma, anaplastic"
+246,TCGA-DB-A64U,Mixed glioma
+247,TCGA-DU-5847,"Astrocytoma, anaplastic"
+248,TCGA-E1-A7YJ,"Astrocytoma, anaplastic"
+249,TCGA-DB-A4XA,Mixed glioma
+250,TCGA-DU-5852,Mixed glioma
+251,TCGA-TM-A7CA,"Astrocytoma, NOS"
+252,TCGA-DU-6407,"Oligodendroglioma, NOS"
+253,TCGA-HW-A5KJ,"Oligodendroglioma, anaplastic"
+254,TCGA-TM-A84H,Mixed glioma
+255,TCGA-HT-7472,"Oligodendroglioma, NOS"
+256,TCGA-VV-A86M,"Astrocytoma, anaplastic"
+257,TCGA-DU-A7TD,Mixed glioma
+258,TCGA-S9-A7QX,"Astrocytoma, anaplastic"
+259,TCGA-E1-A7YI,"Astrocytoma, anaplastic"
+260,TCGA-HT-7860,"Astrocytoma, anaplastic"
+261,TCGA-P5-A780,"Astrocytoma, anaplastic"
+262,TCGA-E1-A7YQ,"Oligodendroglioma, anaplastic"
+263,TCGA-S9-A6U5,"Astrocytoma, NOS"
+264,TCGA-HT-8107,"Oligodendroglioma, NOS"
+265,TCGA-CS-4942,"Astrocytoma, anaplastic"
+266,TCGA-S9-A6U9,"Astrocytoma, anaplastic"
+267,TCGA-HT-7686,"Astrocytoma, anaplastic"
+268,TCGA-DB-A75P,"Astrocytoma, NOS"
+269,TCGA-P5-A5EW,"Astrocytoma, NOS"
+270,TCGA-HT-7607,"Astrocytoma, NOS"
+271,TCGA-DU-7309,"Oligodendroglioma, anaplastic"
+272,TCGA-P5-A737,Mixed glioma
+273,TCGA-S9-A6WM,"Astrocytoma, anaplastic"
+274,TCGA-FG-7636,"Astrocytoma, anaplastic"
+275,TCGA-E1-5322,Mixed glioma
+276,TCGA-TQ-A7RF,"Oligodendroglioma, anaplastic"
+277,TCGA-DU-7010,"Astrocytoma, anaplastic"
+278,TCGA-QH-A6CS,"Astrocytoma, anaplastic"
+279,TCGA-HT-7476,"Astrocytoma, NOS"
+280,TCGA-HT-7884,"Astrocytoma, NOS"
+281,TCGA-DU-A7TC,"Astrocytoma, NOS"
+282,TCGA-CS-6666,"Astrocytoma, anaplastic"
+283,TCGA-HT-7610,Mixed glioma
+284,TCGA-FG-A60K,Mixed glioma
+285,TCGA-S9-A6U8,"Astrocytoma, NOS"
+286,TCGA-HT-8563,"Astrocytoma, anaplastic"
+287,TCGA-TQ-A7RH,Mixed glioma
+288,TCGA-S9-A6U1,"Astrocytoma, anaplastic"
+289,TCGA-DU-7301,"Oligodendroglioma, NOS"
+290,TCGA-FG-6689,"Astrocytoma, NOS"
+291,TCGA-HT-8013,Mixed glioma
+292,TCGA-HT-A616,"Astrocytoma, NOS"
+293,TCGA-DU-7008,"Oligodendroglioma, NOS"
+294,TCGA-E1-A7YD,"Astrocytoma, anaplastic"
+295,TCGA-E1-A7YK,"Astrocytoma, anaplastic"
+296,TCGA-TM-A84Q,"Astrocytoma, NOS"
+297,TCGA-WY-A858,"Astrocytoma, anaplastic"
+298,TCGA-F6-A8O4,"Astrocytoma, NOS"
+299,TCGA-R8-A6MK,"Oligodendroglioma, NOS"
+300,TCGA-VM-A8CF,"Astrocytoma, anaplastic"
+301,TCGA-FG-5965,Mixed glioma
+302,TCGA-HT-7854,"Astrocytoma, NOS"
+303,TCGA-RY-A847,"Oligodendroglioma, NOS"
+304,TCGA-DU-5849,"Oligodendroglioma, NOS"
+305,TCGA-FG-7637,Mixed glioma
+306,TCGA-QH-A65R,"Oligodendroglioma, anaplastic"
+307,TCGA-S9-A7R3,"Astrocytoma, NOS"
+308,TCGA-P5-A735,"Astrocytoma, NOS"
+309,TCGA-HT-A618,"Astrocytoma, anaplastic"
+310,TCGA-E1-A7Z2,"Oligodendroglioma, NOS"
+311,TCGA-TQ-A7RM,Mixed glioma
+312,TCGA-HT-7694,"Oligodendroglioma, anaplastic"
+313,TCGA-VM-A8C8,"Oligodendroglioma, NOS"
+314,TCGA-HT-7616,"Oligodendroglioma, anaplastic"
+315,TCGA-CS-5395,Mixed glioma
+316,TCGA-S9-A7J3,"Oligodendroglioma, anaplastic"
+317,TCGA-E1-5303,"Astrocytoma, anaplastic"
+318,TCGA-CS-4944,"Astrocytoma, NOS"
+319,TCGA-HT-7882,"Oligodendroglioma, anaplastic"
+320,TCGA-DH-A7UT,"Astrocytoma, anaplastic"
+321,TCGA-DB-A64O,Mixed glioma
+322,TCGA-VW-A7QS,"Oligodendroglioma, anaplastic"
+323,TCGA-QH-A870,Mixed glioma
+324,TCGA-DU-A5TS,"Oligodendroglioma, NOS"
+325,TCGA-P5-A731,Mixed glioma
+326,TCGA-KT-A74X,Mixed glioma
+327,TCGA-FG-A4MU,Mixed glioma
+328,TCGA-E1-5311,"Oligodendroglioma, anaplastic"
+329,TCGA-HT-7902,Mixed glioma
+330,TCGA-DU-7290,"Astrocytoma, anaplastic"
+331,TCGA-DB-5274,Mixed glioma
+332,TCGA-FG-A60L,"Astrocytoma, NOS"
+333,TCGA-P5-A781,"Astrocytoma, anaplastic"
+334,TCGA-DB-A4XD,"Astrocytoma, anaplastic"
+335,TCGA-DU-6393,"Oligodendroglioma, anaplastic"
+336,TCGA-S9-A6U0,"Astrocytoma, anaplastic"
+337,TCGA-DU-7298,"Astrocytoma, anaplastic"
+338,TCGA-DU-7299,"Astrocytoma, anaplastic"
+339,TCGA-DU-A7TG,"Oligodendroglioma, NOS"
+340,TCGA-FG-A6J3,"Astrocytoma, anaplastic"
+341,TCGA-DB-5279,"Oligodendroglioma, NOS"
+342,TCGA-QH-A6X5,Mixed glioma
+343,TCGA-CS-4938,"Astrocytoma, NOS"
+344,TCGA-DU-5872,Mixed glioma
+345,TCGA-DU-7007,"Astrocytoma, NOS"
+346,TCGA-P5-A77X,Mixed glioma
+347,TCGA-DU-7304,Mixed glioma
+348,TCGA-DU-A6S3,"Oligodendroglioma, NOS"
+349,TCGA-QH-A86X,"Oligodendroglioma, NOS"
+350,TCGA-E1-5319,"Oligodendroglioma, NOS"
+351,TCGA-HT-A5RC,"Astrocytoma, anaplastic"
+352,TCGA-HT-8106,"Astrocytoma, anaplastic"
+353,TCGA-S9-A6UA,"Astrocytoma, anaplastic"
+354,TCGA-TM-A84S,"Oligodendroglioma, anaplastic"
+355,TCGA-HT-7620,"Oligodendroglioma, anaplastic"
+356,TCGA-DU-A7T6,"Oligodendroglioma, anaplastic"
+357,TCGA-HT-7611,Mixed glioma
+358,TCGA-DU-A6S8,"Oligodendroglioma, anaplastic"
+359,TCGA-QH-A65V,"Oligodendroglioma, NOS"
+360,TCGA-TM-A84B,"Astrocytoma, anaplastic"
+361,TCGA-QH-A6CZ,Mixed glioma
+362,TCGA-TM-A84G,"Oligodendroglioma, anaplastic"
+363,TCGA-DU-8161,Mixed glioma
+364,TCGA-HT-7477,"Astrocytoma, anaplastic"
+365,TCGA-DU-6392,"Astrocytoma, anaplastic"
+366,TCGA-CS-5393,"Astrocytoma, anaplastic"
+367,TCGA-S9-A6WO,"Astrocytoma, NOS"
+368,TCGA-S9-A7R4,"Astrocytoma, anaplastic"
+369,TCGA-RY-A83X,"Oligodendroglioma, NOS"
+370,TCGA-HT-7693,"Oligodendroglioma, NOS"
+371,TCGA-HT-7467,"Oligodendroglioma, NOS"
+372,TCGA-FG-8186,Mixed glioma
+373,TCGA-HW-A5KK,"Astrocytoma, anaplastic"
+374,TCGA-DB-A75O,"Astrocytoma, anaplastic"
+375,TCGA-DB-A64W,Mixed glioma
+376,TCGA-DB-A4XF,"Astrocytoma, anaplastic"
+377,TCGA-FG-7638,"Oligodendroglioma, anaplastic"
+378,TCGA-HT-A74K,"Oligodendroglioma, anaplastic"
+379,TCGA-HT-8105,"Oligodendroglioma, anaplastic"
+380,TCGA-S9-A6U6,"Astrocytoma, anaplastic"
+381,TCGA-FG-A70Y,"Oligodendroglioma, NOS"
+382,TCGA-F6-A8O3,"Oligodendroglioma, NOS"
+383,TCGA-QH-A65Z,"Oligodendroglioma, NOS"
+384,TCGA-DU-6397,"Oligodendroglioma, anaplastic"
+385,TCGA-S9-A6TS,"Astrocytoma, anaplastic"
+386,TCGA-DH-5142,"Astrocytoma, anaplastic"
+387,TCGA-P5-A730,Mixed glioma
+388,TCGA-TM-A84C,"Astrocytoma, NOS"
+389,TCGA-TM-A84M,"Oligodendroglioma, anaplastic"
+390,TCGA-TM-A84O,"Oligodendroglioma, anaplastic"
+391,TCGA-S9-A7IX,"Astrocytoma, anaplastic"
+392,TCGA-DU-A76L,"Oligodendroglioma, anaplastic"
+393,TCGA-QH-A6X8,"Oligodendroglioma, anaplastic"
+394,TCGA-HW-8319,"Astrocytoma, anaplastic"
+395,TCGA-DB-A4XE,Mixed glioma
+396,TCGA-VM-A8C9,"Astrocytoma, NOS"
+397,TCGA-HT-7677,"Oligodendroglioma, anaplastic"
+398,TCGA-DH-A7UU,"Astrocytoma, anaplastic"
+399,TCGA-E1-A7Z6,"Astrocytoma, NOS"
+400,TCGA-P5-A5F0,"Oligodendroglioma, NOS"
+401,TCGA-DU-7019,Mixed glioma
+402,TCGA-HT-7879,Mixed glioma
+403,TCGA-DB-A64L,"Oligodendroglioma, NOS"
+404,TCGA-HT-7469,"Oligodendroglioma, anaplastic"
+405,TCGA-TM-A84F,"Astrocytoma, anaplastic"
+406,TCGA-S9-A6TY,"Oligodendroglioma, NOS"
+407,TCGA-RY-A83Y,"Oligodendroglioma, NOS"
+408,TCGA-E1-A7YH,"Astrocytoma, anaplastic"
+409,TCGA-DH-5141,"Oligodendroglioma, anaplastic"
+410,TCGA-HT-A615,"Oligodendroglioma, NOS"
+411,TCGA-HT-7676,"Oligodendroglioma, NOS"
+412,TCGA-HT-7873,Mixed glioma
+413,TCGA-HT-7473,Mixed glioma
+414,TCGA-DU-6400,"Oligodendroglioma, NOS"
+415,TCGA-HW-8322,"Oligodendroglioma, NOS"
+416,TCGA-HT-7480,"Oligodendroglioma, NOS"
+417,TCGA-DU-7006,"Astrocytoma, anaplastic"
+418,TCGA-P5-A72W,"Astrocytoma, anaplastic"
+419,TCGA-S9-A7R1,"Oligodendroglioma, NOS"
+420,TCGA-HT-7684,Mixed glioma
+421,TCGA-E1-A7YV,Mixed glioma
+422,TCGA-P5-A5F1,"Astrocytoma, NOS"
+423,TCGA-S9-A6WN,"Astrocytoma, anaplastic"
+424,TCGA-DU-A7T8,Mixed glioma
+425,TCGA-HW-7487,"Oligodendroglioma, NOS"
+426,TCGA-DU-A7TJ,"Astrocytoma, anaplastic"
+427,TCGA-DU-5855,Mixed glioma
+428,TCGA-S9-A6TV,Mixed glioma
+429,TCGA-DH-A66B,"Astrocytoma, anaplastic"
+430,TCGA-HT-8104,"Astrocytoma, anaplastic"
+431,TCGA-FG-A87Q,"Astrocytoma, anaplastic"
+432,TCGA-P5-A733,"Astrocytoma, NOS"
+433,TCGA-E1-A7Z4,"Astrocytoma, NOS"
+434,TCGA-EZ-7264,"Oligodendroglioma, NOS"
+435,TCGA-S9-A7QY,Mixed glioma
+436,TCGA-DU-6396,Mixed glioma
+437,TCGA-W9-A837,"Oligodendroglioma, NOS"
+438,TCGA-FG-7641,"Oligodendroglioma, NOS"
+439,TCGA-HT-7471,"Oligodendroglioma, anaplastic"
+440,TCGA-HT-7470,"Oligodendroglioma, anaplastic"
+441,TCGA-QH-A6CU,"Oligodendroglioma, anaplastic"
+442,TCGA-HT-7485,"Astrocytoma, NOS"
+443,TCGA-TQ-A7RW,Mixed glioma
+444,TCGA-HT-7608,Mixed glioma
+445,TCGA-R8-A73M,"Oligodendroglioma, NOS"
+446,TCGA-HT-A74O,"Astrocytoma, anaplastic"
+447,TCGA-HT-7468,"Oligodendroglioma, anaplastic"
+448,TCGA-HT-7880,Mixed glioma
+449,TCGA-HT-7858,"Astrocytoma, NOS"
+450,TCGA-HT-A614,Mixed glioma
+451,TCGA-HW-7491,"Oligodendroglioma, NOS"
+452,TCGA-FG-5963,"Astrocytoma, anaplastic"
+453,TCGA-DH-A7UV,"Astrocytoma, anaplastic"
+454,TCGA-TQ-A7RG,Mixed glioma
+455,TCGA-VM-A8CA,"Oligodendroglioma, NOS"
+456,TCGA-HT-A61B,"Astrocytoma, anaplastic"
+457,TCGA-E1-A7YU,Mixed glioma
+458,TCGA-QH-A65X,Mixed glioma
+459,TCGA-VM-A8CE,"Oligodendroglioma, NOS"
+460,TCGA-TQ-A7RP,Mixed glioma
+461,TCGA-E1-A7YL,"Astrocytoma, anaplastic"
+462,TCGA-DU-8158,"Astrocytoma, anaplastic"
+463,TCGA-HT-7692,Mixed glioma
+464,TCGA-FG-7643,Mixed glioma
+465,TCGA-DB-5273,"Astrocytoma, anaplastic"
+466,TCGA-TQ-A7RV,"Astrocytoma, NOS"
+467,TCGA-DU-A5TU,"Astrocytoma, NOS"
+468,TCGA-DB-A75K,Mixed glioma
+469,TCGA-TQ-A7RI,"Oligodendroglioma, NOS"
+470,TCGA-FG-8185,"Astrocytoma, anaplastic"
+471,TCGA-HT-8111,Mixed glioma
+472,TCGA-TQ-A7RR,Mixed glioma
+473,TCGA-TQ-A8XE,"Oligodendroglioma, NOS"
+474,TCGA-HT-A617,"Oligodendroglioma, NOS"
+475,TCGA-DB-A64V,"Oligodendroglioma, NOS"
+476,TCGA-DU-8166,Mixed glioma
+477,TCGA-TM-A7C4,"Astrocytoma, NOS"
+478,TCGA-FG-7634,"Oligodendroglioma, NOS"
+479,TCGA-QH-A6XA,Mixed glioma
+480,TCGA-HT-7602,"Oligodendroglioma, NOS"
+481,TCGA-S9-A6TU,"Astrocytoma, NOS"
+482,TCGA-DH-A66G,"Oligodendroglioma, anaplastic"
+483,TCGA-TQ-A7RQ,"Oligodendroglioma, NOS"
+484,TCGA-HT-A74L,Mixed glioma
+485,TCGA-HT-7475,Mixed glioma
+486,TCGA-QH-A6X9,"Oligodendroglioma, NOS"
+487,TCGA-IK-8125,Mixed glioma
+488,TCGA-S9-A6WQ,Mixed glioma
+489,TCGA-DH-5143,Mixed glioma
+490,TCGA-DB-A64R,"Oligodendroglioma, NOS"
+491,TCGA-DB-A64S,Mixed glioma
+492,TCGA-P5-A5EX,"Oligodendroglioma, anaplastic"
+493,TCGA-DU-7294,"Oligodendroglioma, NOS"
+494,TCGA-E1-5305,"Astrocytoma, anaplastic"
+495,TCGA-CS-6665,"Astrocytoma, anaplastic"
+496,TCGA-HT-7601,"Astrocytoma, anaplastic"
+497,TCGA-HT-8110,"Astrocytoma, anaplastic"
+498,TCGA-TM-A84L,Mixed glioma
+499,TCGA-14-1450,Glioblastoma
+500,TCGA-12-0819,Glioblastoma
+501,TCGA-32-1991,Glioblastoma
+502,TCGA-76-6660,Glioblastoma
+503,TCGA-76-6285,Glioblastoma
+504,TCGA-74-6575,Glioblastoma
+505,TCGA-81-5911,Glioblastoma
+506,TCGA-28-5220,Glioblastoma
+507,TCGA-06-0876,Glioblastoma
+508,TCGA-14-0787,Glioblastoma
+509,TCGA-06-0939,Glioblastoma
+510,TCGA-06-0152,Glioblastoma
+511,TCGA-32-1982,Glioblastoma
+512,TCGA-32-2634,Glioblastoma
+513,TCGA-76-4927,Glioblastoma
+514,TCGA-19-5950,Glioblastoma
+515,TCGA-06-1804,Glioblastoma
+516,TCGA-19-2631,Glioblastoma
+517,TCGA-12-3649,Glioblastoma
+518,TCGA-14-1829,Glioblastoma
+519,TCGA-27-1833,Glioblastoma
+520,TCGA-76-6282,Glioblastoma
+521,TCGA-06-6388,Glioblastoma
+522,TCGA-32-1979,Glioblastoma
+523,TCGA-32-5222,Glioblastoma
+524,TCGA-02-0033,Glioblastoma
+525,TCGA-14-1034,Glioblastoma
+526,TCGA-12-0818,Glioblastoma
+527,TCGA-27-1837,Glioblastoma
+528,TCGA-12-0618,Glioblastoma
+529,TCGA-28-2513,Glioblastoma
+530,TCGA-06-5408,Glioblastoma
+531,TCGA-76-6662,Glioblastoma
+532,TCGA-12-3648,Glioblastoma
+533,TCGA-81-5910,Glioblastoma
+534,TCGA-15-0742,Glioblastoma
+535,TCGA-06-5415,Glioblastoma
+536,TCGA-12-1088,Glioblastoma
+537,TCGA-19-A60I,Glioblastoma
+538,TCGA-12-1092,Glioblastoma
+539,TCGA-19-1790,Glioblastoma
+540,TCGA-14-0812,Glioblastoma
+541,TCGA-16-1460,Glioblastoma
+542,TCGA-28-5204,Glioblastoma
+543,TCGA-41-3915,Glioblastoma
+544,TCGA-14-1451,Glioblastoma
+545,TCGA-06-1084,Glioblastoma
+546,TCGA-06-0125,Glioblastoma
+547,TCGA-76-6656,Glioblastoma
+548,TCGA-14-2554,Glioblastoma
+549,TCGA-06-A7TK,Glioblastoma
+550,TCGA-41-2571,Glioblastoma
+551,TCGA-76-6661,Glioblastoma
+552,TCGA-28-6450,Glioblastoma
+553,TCGA-28-2509,Glioblastoma
+554,TCGA-14-0862,Glioblastoma
+555,TCGA-32-2632,Glioblastoma
+556,TCGA-19-2624,Glioblastoma
+557,TCGA-06-0686,Glioblastoma
+558,TCGA-06-0750,Glioblastoma
+559,TCGA-14-3476,Glioblastoma
+560,TCGA-06-0209,Glioblastoma
+561,TCGA-06-0132,Glioblastoma
+562,TCGA-12-0656,Glioblastoma
+563,TCGA-26-1799,Glioblastoma
+564,TCGA-14-0871,Glioblastoma
+565,TCGA-12-0657,Glioblastoma
+566,TCGA-19-1786,Glioblastoma
+567,TCGA-06-6390,Glioblastoma
+568,TCGA-28-5219,Glioblastoma
+569,TCGA-14-1455,Glioblastoma
+570,TCGA-41-2575,Glioblastoma
+571,TCGA-28-5216,Glioblastoma
+572,TCGA-26-A7UX,Glioblastoma
+573,TCGA-06-A5U0,Glioblastoma
+574,TCGA-32-1980,Glioblastoma
+575,TCGA-19-4068,Glioblastoma
+576,TCGA-06-0744,Glioblastoma
+577,TCGA-76-4935,Glioblastoma
+578,TCGA-26-5133,Glioblastoma
+579,TCGA-41-5651,Glioblastoma
+580,TCGA-19-1787,Glioblastoma
+581,TCGA-28-1745,Glioblastoma
+582,TCGA-28-5213,Glioblastoma
+583,TCGA-74-6577,Glioblastoma
+584,TCGA-32-2638,Glioblastoma
+585,TCGA-19-1791,Glioblastoma
+586,TCGA-06-6693,Glioblastoma
+587,TCGA-06-1087,Glioblastoma
+588,TCGA-76-4928,Glioblastoma
+589,TCGA-32-4210,Glioblastoma
+590,TCGA-06-5412,Glioblastoma
+591,TCGA-06-5417,Glioblastoma
+592,TCGA-28-1752,Glioblastoma
+593,TCGA-06-0747,Glioblastoma
+594,TCGA-06-0169,Glioblastoma
+595,TCGA-26-1442,Glioblastoma
+596,TCGA-28-2499,Glioblastoma
+597,TCGA-27-2518,Glioblastoma
+598,TCGA-06-0216,Glioblastoma
+599,TCGA-28-1750,Glioblastoma
+600,TCGA-06-0137,Glioblastoma
+601,TCGA-06-0184,Glioblastoma
+602,TCGA-19-2620,Glioblastoma
+603,TCGA-41-2573,Glioblastoma
+604,TCGA-27-2524,Glioblastoma
+605,TCGA-06-0190,Glioblastoma
+606,TCGA-12-0773,Glioblastoma
+607,TCGA-06-2563,Glioblastoma
+608,TCGA-74-6573,Glioblastoma
+609,TCGA-06-0185,Glioblastoma
+610,TCGA-06-0140,Glioblastoma
+611,TCGA-27-2528,Glioblastoma
+612,TCGA-41-4097,Glioblastoma
+613,TCGA-14-1823,Glioblastoma
+614,TCGA-12-0619,Glioblastoma
+615,TCGA-06-0219,Glioblastoma
+616,TCGA-14-1456,Glioblastoma
+617,TCGA-06-0192,Glioblastoma
+618,TCGA-02-2486,Glioblastoma
+619,TCGA-16-0861,Glioblastoma
+620,TCGA-06-0875,Glioblastoma
+621,TCGA-06-0879,Glioblastoma
+622,TCGA-74-6581,Glioblastoma
+623,TCGA-74-6578,Glioblastoma
+624,TCGA-14-1396,Glioblastoma
+625,TCGA-06-0195,Glioblastoma
+626,TCGA-28-5218,Glioblastoma
+627,TCGA-06-5416,Glioblastoma
+628,TCGA-19-2623,Glioblastoma
+629,TCGA-02-0003,Glioblastoma
+630,TCGA-06-0189,Glioblastoma
+631,TCGA-76-6286,Glioblastoma
+632,TCGA-12-1597,Glioblastoma
+633,TCGA-14-1453,Glioblastoma
+634,TCGA-19-5960,Glioblastoma
+635,TCGA-76-4929,Glioblastoma
+636,TCGA-76-4925,Glioblastoma
+637,TCGA-12-1600,Glioblastoma
+638,TCGA-19-1789,Glioblastoma
+639,TCGA-12-5301,Glioblastoma
+640,TCGA-12-1598,Glioblastoma
+641,TCGA-02-2470,Glioblastoma
+642,TCGA-19-1385,Glioblastoma
+643,TCGA-06-5858,Glioblastoma
+644,TCGA-06-1806,Glioblastoma
+645,TCGA-12-0688,Glioblastoma
+646,TCGA-12-3652,Glioblastoma
+647,TCGA-14-0813,Glioblastoma
+648,TCGA-32-1970,Glioblastoma
+649,TCGA-06-2570,Glioblastoma
+650,TCGA-27-2527,Glioblastoma
+651,TCGA-14-0740,Glioblastoma
+652,TCGA-02-0055,Glioblastoma
+653,TCGA-06-5418,Glioblastoma
+654,TCGA-06-6701,Glioblastoma
+655,TCGA-19-1390,Glioblastoma
+656,TCGA-06-1800,Glioblastoma
+657,TCGA-32-4213,Glioblastoma
+658,TCGA-06-6694,Glioblastoma
+659,TCGA-06-0122,Glioblastoma
+660,TCGA-12-3651,Glioblastoma
+661,TCGA-19-0957,Glioblastoma
+662,TCGA-14-0817,Glioblastoma
+663,TCGA-19-5958,Glioblastoma
+664,TCGA-19-2625,Glioblastoma
+665,TCGA-14-1825,Glioblastoma
+666,TCGA-27-2521,Glioblastoma
+667,TCGA-OX-A56R,Glioblastoma
+668,TCGA-16-0849,Glioblastoma
+669,TCGA-76-6657,Glioblastoma
+670,TCGA-06-0158,Glioblastoma
+671,TCGA-28-2501,--
+672,TCGA-76-6280,Glioblastoma
+673,TCGA-28-1747,Glioblastoma
+674,TCGA-06-2559,Glioblastoma
+675,TCGA-06-0878,Glioblastoma
+676,TCGA-06-0166,Glioblastoma
+677,TCGA-28-5208,Glioblastoma
+678,TCGA-28-1749,Glioblastoma
+679,TCGA-19-1387,Glioblastoma
+680,TCGA-12-0615,Glioblastoma
+681,TCGA-27-1830,Glioblastoma
+682,TCGA-06-2561,Glioblastoma
+683,TCGA-14-0786,Glioblastoma
+684,TCGA-06-A5U1,Glioblastoma
+685,TCGA-19-5951,Glioblastoma
+686,TCGA-76-6191,Glioblastoma
+687,TCGA-19-4065,Glioblastoma
+688,TCGA-RR-A6KA,Glioblastoma
+689,TCGA-06-0221,Glioblastoma
+690,TCGA-28-2502,Glioblastoma
+691,TCGA-06-5859,Glioblastoma
+692,TCGA-06-6389,Glioblastoma
+693,TCGA-32-2495,Glioblastoma
+694,TCGA-06-0743,Glioblastoma
+695,TCGA-12-0821,Glioblastoma
+696,TCGA-28-1755,Glioblastoma
+697,TCGA-32-4211,Glioblastoma
+698,TCGA-06-2562,Glioblastoma
+699,TCGA-32-4209,Glioblastoma
+700,TCGA-41-3393,Glioblastoma
+701,TCGA-76-4932,Glioblastoma
+702,TCGA-12-0826,Glioblastoma
+703,TCGA-27-2519,Glioblastoma
+704,TCGA-RR-A6KB,Glioblastoma
+705,TCGA-27-1831,Glioblastoma
+706,TCGA-28-2510,--
+707,TCGA-06-0644,Glioblastoma
+708,TCGA-06-2569,Glioblastoma
+709,TCGA-32-1977,Glioblastoma
+710,TCGA-06-0187,Glioblastoma
+711,TCGA-26-5136,Glioblastoma
+712,TCGA-06-0882,Glioblastoma
+713,TCGA-16-0850,Glioblastoma
+714,TCGA-32-1976,Glioblastoma
+715,TCGA-06-0877,Glioblastoma
+716,TCGA-4W-AA9R,Glioblastoma
+717,TCGA-06-2564,Glioblastoma
+718,TCGA-19-1788,Glioblastoma
+719,TCGA-12-0707,Glioblastoma
+720,TCGA-06-0214,Glioblastoma
+721,TCGA-14-0781,Glioblastoma
+722,TCGA-4W-AA9T,Glioblastoma
+723,TCGA-06-5856,Glioblastoma
+724,TCGA-41-6646,Glioblastoma
+725,TCGA-06-0145,Glioblastoma
+726,TCGA-26-1439,Glioblastoma
+727,TCGA-12-1093,Glioblastoma
+728,TCGA-14-0736,Glioblastoma
+729,TCGA-06-0745,Glioblastoma
+730,TCGA-14-0789,Glioblastoma
+731,TCGA-26-6173,Glioblastoma
+732,TCGA-27-1838,Glioblastoma
+733,TCGA-76-6663,Glioblastoma
+734,TCGA-32-2494,Glioblastoma
+735,TCGA-06-2567,Glioblastoma
+736,TCGA-41-2572,Glioblastoma
+737,TCGA-12-0775,Glioblastoma
+738,TCGA-41-3392,Glioblastoma
+739,TCGA-14-3477,Glioblastoma
+740,TCGA-06-A6S1,Glioblastoma
+741,TCGA-12-0692,Glioblastoma
+742,TCGA-14-1795,Glioblastoma
+743,TCGA-19-1386,Glioblastoma
+744,TCGA-19-A6J5,Glioblastoma
+745,TCGA-06-6699,Glioblastoma
+746,TCGA-16-0848,Glioblastoma
+747,TCGA-74-6584,Glioblastoma
+748,TCGA-12-0820,Glioblastoma
+749,TCGA-14-4157,Glioblastoma
+750,TCGA-06-0130,Glioblastoma
+751,TCGA-02-2485,Glioblastoma
+752,TCGA-12-5299,Glioblastoma
+753,TCGA-12-3646,Glioblastoma
+754,TCGA-06-2558,Glioblastoma
+755,TCGA-06-2565,Glioblastoma
+756,TCGA-06-6391,Glioblastoma
+757,TCGA-06-0238,Glioblastoma
+758,TCGA-76-4926,Glioblastoma
+759,TCGA-06-A7TL,Glioblastoma
+760,TCGA-14-0790,Glioblastoma
+761,TCGA-12-0616,Glioblastoma
+762,TCGA-02-0047,Glioblastoma
+763,TCGA-19-5955,Glioblastoma
+764,TCGA-14-1827,Glioblastoma
+765,TCGA-06-0157,Glioblastoma
+766,TCGA-06-0168,Glioblastoma
+767,TCGA-26-5135,Glioblastoma
+768,TCGA-06-6698,Glioblastoma
+769,TCGA-26-5134,Glioblastoma
+770,TCGA-12-5295,Glioblastoma
+771,TCGA-06-0154,Glioblastoma
+772,TCGA-12-0691,Glioblastoma
+773,TCGA-12-1602,Glioblastoma
+774,TCGA-12-0670,Glioblastoma
+775,TCGA-28-1757,Glioblastoma
+776,TCGA-12-0829,Glioblastoma
+777,TCGA-06-0749,Glioblastoma
+778,TCGA-06-5413,Glioblastoma
+779,TCGA-06-0646,Glioblastoma
+780,TCGA-26-6174,Glioblastoma
+781,TCGA-12-0662,Glioblastoma
+782,TCGA-28-2514,Glioblastoma
+783,TCGA-06-0650,Glioblastoma
+784,TCGA-76-4931,Glioblastoma
+785,TCGA-06-0649,Glioblastoma
+786,TCGA-06-0241,Glioblastoma
+787,TCGA-19-5956,Glioblastoma
+788,TCGA-06-0173,Glioblastoma
+789,TCGA-02-2466,Glioblastoma
+790,TCGA-06-6697,Glioblastoma
+791,TCGA-06-0129,Glioblastoma
+792,TCGA-06-6695,Glioblastoma
+793,TCGA-15-1446,Glioblastoma
+794,TCGA-16-1048,--
+795,TCGA-27-2526,Glioblastoma
+796,TCGA-76-6192,Glioblastoma
+797,TCGA-27-2523,Glioblastoma
+798,TCGA-06-0119,Glioblastoma
+799,TCGA-27-1835,Glioblastoma
+800,TCGA-4W-AA9S,Glioblastoma
+801,TCGA-19-2629,Glioblastoma
+802,TCGA-RR-A6KC,Glioblastoma
+803,TCGA-06-0237,Glioblastoma
+804,TCGA-06-0211,Glioblastoma
+805,TCGA-76-6283,Glioblastoma
+806,TCGA-06-0188,Glioblastoma
+807,TCGA-32-4208,Glioblastoma
+808,TCGA-06-5414,Glioblastoma
+809,TCGA-12-3644,Glioblastoma
+810,TCGA-87-5896,Glioblastoma
+811,TCGA-06-5410,Glioblastoma
+812,TCGA-14-1821,Glioblastoma
+813,TCGA-06-0126,Glioblastoma
+814,TCGA-12-0827,Glioblastoma
+815,TCGA-06-0210,Glioblastoma
+816,TCGA-06-0213,Glioblastoma
+817,TCGA-14-1037,Glioblastoma
+818,TCGA-06-0645,Glioblastoma
+819,TCGA-06-0171,Glioblastoma
+820,TCGA-19-5954,Glioblastoma
+821,TCGA-27-1836,Glioblastoma
+822,TCGA-19-2621,Glioblastoma
+823,TCGA-02-2483,Glioblastoma
+824,TCGA-32-1986,Glioblastoma
+825,TCGA-12-1599,Glioblastoma
+826,TCGA-06-A6S0,Glioblastoma
+827,TCGA-14-0865,Glioblastoma
+828,TCGA-16-1045,Glioblastoma
+829,TCGA-28-5209,Glioblastoma
+830,TCGA-19-A6J4,Glioblastoma
+831,TCGA-19-5947,Glioblastoma
+832,TCGA-06-0155,Glioblastoma
+833,TCGA-76-6664,Glioblastoma
+834,TCGA-06-0124,Glioblastoma
+835,TCGA-06-0151,Glioblastoma
+836,TCGA-26-5139,Glioblastoma
+837,TCGA-76-4934,Glioblastoma
+838,TCGA-06-0141,Glioblastoma
+839,TCGA-06-0881,Glioblastoma
+840,TCGA-12-3653,Glioblastoma
+841,TCGA-28-1751,Glioblastoma
+842,TCGA-06-0648,Glioblastoma
+843,TCGA-06-0174,Glioblastoma
+844,TCGA-19-1389,Glioblastoma
+845,TCGA-28-1753,Glioblastoma
+846,TCGA-76-6193,Glioblastoma
+847,TCGA-12-3650,Glioblastoma
+848,TCGA-14-1395,Glioblastoma
+849,TCGA-32-2616,Glioblastoma
+850,TCGA-06-5411,Glioblastoma
+851,TCGA-28-5215,Glioblastoma
+852,TCGA-19-5953,Glioblastoma
+853,TCGA-14-1043,Glioblastoma
+854,TCGA-06-0128,Glioblastoma
+855,TCGA-12-1089,Glioblastoma
+856,TCGA-27-1834,Glioblastoma
+857,TCGA-19-5959,Glioblastoma
+858,TCGA-16-0846,Glioblastoma
+859,TCGA-28-1746,Glioblastoma
+860,TCGA-32-2491,Glioblastoma
+861,TCGA-06-2557,Glioblastoma

@@ -10,3 +10,6 @@
 	>> python install pandas numpy matplotlib seaborn <<
 	>> pip install ucimlrepo <<
 	>> pip install chembl_webresource_client <<
+	>> pip install python-dotenv <<
+	>> pip install mysql-connector-python <<
+
