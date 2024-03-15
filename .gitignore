@@ -1,0 +1,20 @@
+# Ignore .* files
+.env
+
+# Ignore venv
+minipro_sql_venv/
+data_analytics_venv/
+
+# Input Requirement Files
+requirements*.in
+
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+
+# Docu Files
+*.doc
+*.pdf
+
+# 
